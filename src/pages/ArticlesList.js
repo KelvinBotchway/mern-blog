@@ -17,7 +17,7 @@ const ArticlesList = () => {
         </div>
       </div>
     </div>
-  );
+  );  
 };
 
 export default ArticlesList;
